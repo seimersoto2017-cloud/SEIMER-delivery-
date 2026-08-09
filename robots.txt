@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seimer-deliveryhco.vercel.app/sitemap.xml
